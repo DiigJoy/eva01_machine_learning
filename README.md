@@ -17,7 +17,7 @@ Desarrollar un modelo de Machine Learning que pueda predecir si un pasajero del 
 
 ### 📁 Estructura de Carpetas:
 ```
-titanic-ml-classification/
+eva01_machine_learning/
 ├── notebooks/
 │   └── titanic_survival_analysis.ipynb
 ├── data/
@@ -25,7 +25,7 @@ titanic-ml-classification/
 ├── results/
 │   └── (aquí van las capturas)
 ├── docs/
-│   └── informe_final.pdf
+│   └── informe_final_titanic.md
 ├── requirements.txt
 └── README.md
 ```
